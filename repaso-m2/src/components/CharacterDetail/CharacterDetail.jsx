@@ -24,7 +24,7 @@ const CharacterDetail = ()=> {
 
     return(
         <div style={{backgroundColor:'rgb(225, 146, 81)'}}>
-          <img src={characterDetail?.image} style={{borderRadius: '999999rem', padding: '2rem'}} />
+          <img src={characterDetail?.image} style={{borderRadius: '999998rem', padding: '2rem'}} />
           <h1>{characterDetail?.name}</h1>
           
 
